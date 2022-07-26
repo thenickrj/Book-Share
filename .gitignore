@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/downloaded items
 /.pnp
 .pnp.js
 
